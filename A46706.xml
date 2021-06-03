@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty and encouragement of religious artificers described in a sermon preached in the Cathedral Church of Norwich at the Weavers Guild, on Munday in Whitsun-week, June 5, 1693 / by John Jeffery ...</title>
+            <author>Jeffery, John, 1647-1720.</author>
+         </titleStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46706</idno><idno type="EEBO-CITATION">12576269</idno>
+  <idno type="VID">63581</idno>
+  <idno type="EEBO-PROQUEST">2240946361</idno>
+  
+            <idno type="STC">Wing J515</idno>
+            <idno type="STC">ESTC R1603</idno>
+            <idno type="OCLC">12576269</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 962:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty and encouragement of religious artificers described in a sermon preached in the Cathedral Church of Norwich at the Weavers Guild, on Munday in Whitsun-week, June 5, 1693 / by John Jeffery ...</title>
+                  <author>Jeffery, John, 1647-1720.</author>
+               </titleStmt>
+               <extent>[4], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hayes, for Samuel Oliver ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Artisans --  Great Britain.</term>
+               <term type="topical_term">Artisans --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63581:1"/>
+            <pb facs="tcp:63581:1"/>
+            <p>THE <hi>Duty</hi> and <hi>Encouragement</hi> Of RELIGIOUS ARTIFICERS Described in a SERMON Preached in the CATHEDRAL CHURCH OF NORWICH AT THE Weavers Guild, <hi>On Munday in Whitsun-Week,</hi> June 5, 1693.</p>
+            <p>By <hi>John Jeffery,</hi> M. A. Minister of S. <hi>Peters</hi> of <hi>Mancroft</hi> in <hi>Norwich.</hi>
+            </p>
+            <q>
+               <p>Ars Census, Opera Vita.</p>
+            </q>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>John Hayes,</hi> for <hi>Samuel Oliver</hi> Bookseller in <hi>Norwich,</hi> MDCXCIII.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:63581:2"/>
+            <opener>
+               <dateline>
+                  <date>July 5. 1693.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Geor. Oxenden,</hi> Procan.</item>
+                     <item>
+                        <hi>Jo. Beaumont,</hi> S. T. P. Reg. Pr.</item>
+                     <item>
+                        <hi>Jo. <gap reason="illegible: faint" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>hard,</hi> Aul. Cath. Mag.</item>
+                     <item>
+                        <hi>Jo. Balderston,</hi> Coll. Emman. Mag.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63581:2"/>
+            <head>
+               <hi>TO THE WARDENS, ASSISTANTS, And others of the COMPANY OF Worsted Weavers In the City of</hi> NORWICH, <hi>and County of NORFOLK.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT which prevailed with me to comply with your De<g ref="char:EOLhyphen"/>sires, and to make this Dis<g ref="char:EOLhyphen"/>course publick, was the Hope, that by so doing, the Design of it might be more universally, and effectually promoted. That design was to make men sensible, That every o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of what Quality, Condi<g ref="char:EOLhyphen"/>tion, and Circumstances soever, is capa<g ref="char:EOLhyphen"/>ble of being Happy, and obliged to be
+<pb facs="tcp:63581:3"/>Religious: That althô Few men have a learned Education, or Extraordinary parts; thô most men have constant bu<g ref="char:EOLhyphen"/>siness, and small leisure; Yet All men have the same necessity of being Reli<g ref="char:EOLhyphen"/>gious, as They have of being Happy, and that necessity is the greatest that is possible.</p>
+            <p>No man is constrained to be altoge<g ref="char:EOLhyphen"/>ther Worldly, because his Employment is so: but any one may Live soberly, righteously and g<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dly, in this present world, and no man can be truly Reli<g ref="char:EOLhyphen"/>gious who is not so, in his Civil Life, and in all manner of Conversation. Now that all who read this Discourse, and especially, you to whom it is dedicated, may be the better for it, is the hearty de<g ref="char:EOLhyphen"/>sire, and prayer, of</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend and Servant</hi>
+                  <lb/> John Jeffery.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63581:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Ex. 35.35.</hi>
+                  </bibl>
+                  <p>Them hath he filled with wisdom of heart to work all manner of work of the Engraver, and of the cunning workman, and of the Embroiderer in Blue and in Purple, in Scar<g ref="char:EOLhyphen"/>let, and in fine linnen, and of the Weaver, even of them that do any work, and of those that devise cunning work.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the book of <hi>Ecclesiastes,</hi> it is said <hi>God hath made man upright,
+<note place="margin">Eccl. 7.29.</note> but they have sought out many inventions.</hi> Which passage is interpreted by <hi>Gro<g ref="char:EOLhyphen"/>tius</hi> to this sense,
+<note place="margin">
+                  <hi>Grotius</hi> de jure B. &amp; P. l. 2. c. 2. §. 2.</note> That <hi>Nature</hi> is the work of God, but <hi>Art</hi> is the invention of Man. As if originally men kept a perpetual Sabboth of Contemplation, and lived without art or industry. As if the improvement of Natural were the dege<g ref="char:EOLhyphen"/>neracy of Spiritual Life: and the most barbarous were the most Angelical. But this <hi>Hypothesis</hi> is fit only for a <hi>Poet,</hi> or a <hi>Stoick:</hi> and accordingly we have the Description of the Golden Age in <hi>Ovid,</hi>
+               <note place="margin">
+                  <hi>Ovid. Metam.</hi> l. 1. Ecl. 3. <hi>Se<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Ep. 90.</note> and the ingenious morosities of <hi>Seneca,</hi> upon this Sub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>This Truth is notwithstanding apparent from the History of man, that he began to study the cul<g ref="char:EOLhyphen"/>tivation
+<pb n="2" facs="tcp:63581:4"/>of his Outward State after he had lost his Innocency; and neglected his Soul, when he took care of his Body;
+<note place="margin">
+                  <hi>Plin Nat. Hist.</hi> lib. 33. pro.</note> which gave occasion to some to imagin, that the increase of <hi>Art</hi> was the decay of <hi>Vertue.</hi> But this was their mistake: for Arts are like that <hi>Sagacity,</hi> by which they were invented; which we may call (as <hi>Philo</hi> do's) a <hi>middle sort of Wisdom,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—<hi>Philo</hi> de m<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Op<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi>
+               </note> that can minister indifferently to Vertue or to Vice. And although our <hi>Arts</hi> as well as our faculties can be employed in the service of Vertue, or of Vice; yet those <hi>Arts</hi> and <hi>Faculties</hi> ought to be employed only in the service of God, who created Man, and endowed him with his <hi>Sagacity.</hi> When it is otherwise, the Original do's reprove the use: and those men are condemned by their Consciences, who employ their <hi>Arts</hi> or their <hi>Faculties</hi> in the service of Sin. For as both our Faculties and Arts are from God, so they ought to be used for him: and Vertue is the perfection of Politeness.</p>
+            <p>If the Accommodations and Magnificence of Life had been inconsistent with Vertue and Religion, <hi>God</hi> would not have given us so many things richly to enjoy, and called Himself the Author of those <hi>Arts,</hi> by which they are enjoyed, as He hath done. For although natural Sagacity and industrious Applica<g ref="char:EOLhyphen"/>tion make men Artists, yet <hi>God</hi> is said to endow those m<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n with their Skill and Wisdom: and although our duties be the actions of Men, they are styled the fruits of the Spirit. Nor have we just reason to be<g ref="char:EOLhyphen"/>lieve that God made <hi>Bezaleel,</hi> and <hi>Aholiab,</hi> Artists by inspiration only, but that He used men whom he found Artists, made such by his blessing on their Sagacity and Diligence. <hi>Moses</hi> saw the Pattern of the Tabernacle, and all things belonging to it, in
+<pb n="3" facs="tcp:63581:4"/>the Mount, but the <hi>Artificers</hi> did not. They wrought according to their own Skill, what <hi>Moses</hi> ordered them according to the appointment of God. Yet <hi>Moses</hi> said unto the children of <hi>Jsrael, See, the Lord hath called by name Bezaleel the Son of Ʋri, the Son of Hur, of the tribe of Judah, and he hath filled him with the Spirit of God in wisdom and un<g ref="char:EOLhyphen"/>derstanding, and knowledge, and in all manner of workmanship, and to devise cunning work,</hi> v. 30, 31, 32.</p>
+            <p>It should seem, that the Skill of <hi>Bezaleel</hi> lay in working of Gold, and Silver, and Brass, and Stones, and Wood, by what follows v. 32, 33. <hi>To work in Gold and in Silver and in Brass, and in the cutting of Stones to set them, and in carving of Wood, to make any manner of cunning work.</hi> And it seems, by what is said v. 34, 35. that <hi>Aholiab's</hi> Skill was in working of Hair and Wool and Flax, and Silk: for it is added, <hi>And he</hi> (i. e. God) <hi>hath put into his</hi> (Bezaleel's) <hi>heart, that He may teach; He, and Aholiab the Son of Ahisamach of the tribe of Dan.</hi> Both these were Master-workmen, <hi>And them hath he</hi> (i e. God) <hi>filled with wisdom of heart to work all manner of work of the Engraver, and of the cun<g ref="char:EOLhyphen"/>ning workman, and of the Embroiderer in Blue, and in Purple, in Scarlet and in fine Linnen, and of the Weaver, even of them that do any work, and of those that devise cunning work.</hi> Where all the words ex<g ref="char:EOLhyphen"/>cept that one of the <hi>Engraver</hi> signifie works of a different sort from what are ascribed to <hi>Bezaleel:</hi> The Skill of both of them is said to be from God: and so is the Skill of all others, <hi>Ex.</hi> 31.6. where, after the mention of those two Eminent Persons, it is added; <hi>And in the heart of all that are wise
+<pb n="4" facs="tcp:63581:5"/>hearted have I put wisdom</hi> (say's God) <hi>that they may make all that I have commanded thee.</hi>
+            </p>
+            <p>And that we may not think the gifts of <hi>these men</hi> were as peculiarly <hi>from</hi> God, as the work They at that time did by them, was peculiarly <hi>for</hi> God, we find God by the Prophet assuming to himself, to be the Author of that Skill, with which the <hi>Plowman</hi> is endowed, <hi>Is.</hi> 28.23, &amp;c. <hi>Give ye ear and hear my voice; hearken and hear my Speech. Doth the Plowman plow all day to sow? doth he open and break the clods? when he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the Cummin, and cast in the principal Wheat, and the appointed Barley, and the Rie in their place? For his God doth instruct him to discretion and doth teach him. For fitches are not threshed with a threshing instru<g ref="char:EOLhyphen"/>ment, neither is a Cart wheel turned about upon the Cummin: but the fitches are beaten out with a staff, and the Cummin with a rod. Bread corn is bruised because he will not ever be threshing it, neither break it with the wheel of his Cart, nor bruise it with his horsemen. This also cometh forth from the Lord of Hosts,</hi> which <hi>is wonderful in counsel, and excellent in working.</hi> That God therefore, who teacheth the <hi>Countryman,</hi> to plow, and sow, and reap, and dress his Corn, doth as certainly give the <hi>Artificer</hi> his In<g ref="char:EOLhyphen"/>vention and Skill.</p>
+            <p>And if any should still object (what they cannot prove) That the Skill of those <hi>Artificers</hi> in the <hi>Text,</hi> was (if not in kind yet at least in degree) <hi>Miraculous;</hi> that pretense would not overthrow the <hi>Doctrin,</hi> which is this,</p>
+            <p>That <hi>the invention and Skill of the Artist, by which he is useful unto mankind, are from the most high God.</hi>
+            </p>
+            <pb n="5" facs="tcp:63581:5"/>
+            <p> So that according to the sense of the <hi>Text,</hi> we have</p>
+            <p n="1">I. The <hi>Character</hi> of an <hi>Artist:</hi> and that cha<g ref="char:EOLhyphen"/>racter is <hi>honourable,</hi> for it is made up of <hi>Wisdom,</hi> and <hi>Ʋsefulness.</hi> His work is the product of Wis<g ref="char:EOLhyphen"/>dom and Industry and the work is necessary, and useful unto mankind.</p>
+            <p n="2">II. The <hi>Original</hi> of <hi>Art;</hi> and that Original is <hi>di<g ref="char:EOLhyphen"/>vine:</hi> for 'tis <hi>God</hi> (as himself tells us) who hath <hi>filled</hi> the Artist with Wisdom.</p>
+            <p>These are the general <hi>Parts</hi> of my discourse: The Character of an <hi>Artist,</hi> and the Original of <hi>Art.</hi> That Character is <hi>honourable:</hi> and that Ori<g ref="char:EOLhyphen"/>ginal is <hi>divine.</hi>
+            </p>
+            <p n="1">I. The Character of an <hi>Artist</hi> and that is <hi>honoura<g ref="char:EOLhyphen"/>ble,</hi> being made up of <hi>Wisdom</hi> and <hi>Ʋsefulness.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Arist.</hi>
+               </note>
+            </p>
+            <p>Those <hi>peculiar Excellencies</hi> which are a <hi>common Benefit,</hi> do Honour to those persons, in whom the Excellencies are. The Skill or Wisdom of him who is Useful and Beneficent, is highly esteemed and such is the Skill and Wisdom of the <hi>Artist;</hi> and for that, he deserves to be esteemed. Both those properties the Text ascribes unto the Artist, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Wisdom;</hi> and</item>
+               <item>2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Ʋsefulness.</hi>
+               </item>
+            </list>
+            <p n="1">1. The Text ascribes <hi>Wisdom</hi> to the <hi>Artist: viz.</hi> Wisdom to <hi>invent</hi> what is commodious and becoming: and Wisdom to <hi>work</hi> what is invented. <hi>To do any work: and to devise cunning works.</hi>
+            </p>
+            <p>There is a Wisdom and Sagacity to invent <hi>Arts</hi> and <hi>Instruments,</hi> and we have History of both. From <hi>Histories,</hi> and <hi>Arts,</hi> good Arguments are ta<g ref="char:EOLhyphen"/>ken, for the Beginning, and against the Eternity of the <hi>World.</hi> For if the World had always been, the Matter of <hi>History,</hi> and the Progress of <hi>Arts,</hi>
+               <pb n="6" facs="tcp:63581:6"/>would not have been such as now they are. <hi>Lu<g ref="char:EOLhyphen"/>cretius</hi> the Epicurean Poet, from hence objects strong<g ref="char:EOLhyphen"/>ly;
+<note place="margin">
+                  <hi>Lucret.</hi> l. 5. <hi>Preterea si nulla fait,</hi> &amp;c.</note>
+               <hi>If the World had not a beginning, how comes it to pass, that Histories are not more ancient, and that Arts are not more perfect?</hi> The Sagacity and Di<g ref="char:EOLhyphen"/>ligence of men have had such success in the <hi>improving</hi> of Art, for the time of which we have certain know<g ref="char:EOLhyphen"/>ledge; that if the <hi>World</hi> were Eternal, or but very old, there must have been long ago a greater <hi>per<g ref="char:EOLhyphen"/>fection</hi> of all necessary Arts, then there is. Nor could we, (upon such a supposition) in probability, have had, at this time, the History of those men, who had been the first <hi>Inventers</hi> of Arts. For the <hi>Arts</hi> would have been so <hi>old,</hi> that the Inventers of them would have been quite forgotten.</p>
+            <p>But omitting that, We have considerable, and unquestionable;
+<note place="margin">
+                  <hi>Sa<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ientia Ars est,</hi> Sen. Ep. 29.</note> the <hi>Wisdom</hi> of those who <hi>Find out</hi> Arts, or make <hi>Additions</hi> to what is found out: Who, as the Text speaks, <hi>devise cunning works. Posidarius</hi> Contends, that <hi>Learned</hi> men found out Instruments and Arts: and it may be probable, that <hi>Mathema<g ref="char:EOLhyphen"/>ticians,</hi> might this way be useful to the world. But in ordinary,
+<note place="margin">
+                  <hi>Ser.</hi> Ep. 90.</note> it seems more true, what <hi>Seneca</hi> affirms,
+<note place="margin">
+                  <hi>Arnob.</hi> l. 2. p. 55. <hi>Non sunt ista,</hi> &amp;c. <hi>Lucret.</hi> l. 3. <hi>f. Navi<g ref="char:EOLhyphen"/>gia, atque a<g ref="char:EOLhyphen"/>gri,</hi> &amp;c.</note> that Arts were found out by the Sagacity of those who use them.</p>
+            <p>But in all Arts, there is <hi>Mystery:</hi> and when they are found out, they must also be <hi>learned.</hi> For, without much <hi>Instruction</hi> and more <hi>Exercise</hi> no man can be Skilful in working of what is the most com<g ref="char:EOLhyphen"/>mon and mean part of the <hi>Mechanicks.</hi> But some men are far more dexterous, and artificial then O<g ref="char:EOLhyphen"/>thers: and some men are fit for one Art, and some for another.</p>
+            <p>He that is <hi>excellent</hi> in any Art deserves <hi>praise,</hi>
+               <pb n="7" facs="tcp:63581:6"/>and shall have it, from those who are wise, and just. We esteem that Skill, which only <hi>Entertains,</hi> and does not profit us: the <hi>Sciences</hi> that are <hi>Specu<g ref="char:EOLhyphen"/>lative and not practical</hi> (as <hi>Philo</hi> makes his distin<g ref="char:EOLhyphen"/>ction) as they discover Industry, and suppose Dili<g ref="char:EOLhyphen"/>gence, so they deserve Honour: and all sorts of Learning is a Reputation. But especially those Arts, that are <hi>Practical</hi> and <hi>Ʋseful,</hi> as all Mechanical Arts are (which <hi>Philo</hi> calls <hi>Practical and not Specula<g ref="char:EOLhyphen"/>tive</hi>) deserve Esteem. For</p>
+            <p n="2">2. The <hi>Ʋsefulness</hi> of Art recommends it: and he who is by his Skill a <hi>Benefactor</hi> unto men de<g ref="char:EOLhyphen"/>serves well of them.</p>
+            <p>There are many things in <hi>Nature,</hi> which are use<g ref="char:EOLhyphen"/>ful in themselves; but they are made more use<g ref="char:EOLhyphen"/>ful by Art; and there are many things in nature, which are little, or not at all useful, which are by Art, made very profitable to men.</p>
+            <p>Tis the Observation of <hi>Aristotle,</hi>
+               <note place="margin">Arist. Qu. Me<g ref="char:EOLhyphen"/>chan.</note> that we wonder at those things, whose effects are manifest, and whose Causes are hid in Nature; But we do <hi>more justly</hi> admire what is by Art preternaturally made useful to man. In many things <hi>Nature</hi> do's what is to our Benefit, but nature always keeps the same Method and Course, and operates with simplicity: whereas what is Useful must be changed into various forms, and that is to be done by <hi>Art.</hi> Therefore when any thing in nature is to be made perfectly com<g ref="char:EOLhyphen"/>modious for the use of Man, there is need of Art, and that Art is the <hi>Mechanical.</hi> To this purpose the Philosopher quotes the Poet <hi>Antipho,</hi> Who says, <hi>We are Superior by Art,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>Arist. Qu. Mec.</hi>
+                  </note> unto those things which are Superiour to us by Nature.</hi> By which we see, of what extraordinary advantage the <hi>Mechanical</hi> Arts
+<pb n="8" facs="tcp:63581:7"/>are; as by them Officious Nature is made more Officious; and as by them, Contrary Natures are Constrained to serve us.</p>
+            <p>When our <hi>First Parents,</hi> were Owners of the whole World, but as yet <hi>without Art,</hi> to command and use it, what could Nature afford (of Food, Rai<g ref="char:EOLhyphen"/>ment, or Habitation) without Art, to Man, more then it do's unto the <hi>Beasts?</hi> All the difference which is between the Natural Accommodation of <hi>Savage Beasts,</hi> and the polite accommodation of the <hi>Greatest men,</hi> is made by <hi>Art.</hi>
+            </p>
+            <p>Those <hi>Arts</hi> of which the <hi>Text</hi> speaks are such, That from them, we have almost all the <hi>Cloathing</hi> of our Bodies, and a good part of the Furniture of our <hi>Houses:</hi> and without which, and such like We must live like a sort of Rational Cattel.</p>
+            <p>That passage, where it is said, <hi>Ʋnto Adam also, and his wife,
+<note place="margin">Cen. 3.21.</note> did the Lord God make Coats of Skin, and cloathed them,</hi> Which some think is a History, that must needs be turned into an <hi>Allegory,</hi> hath no Such an Appearance to me. For <hi>Cloathing</hi> is such a Benefit that I cannot conceive it to be un<g ref="char:EOLhyphen"/>worthy of <hi>God himself</hi> to send an Holy <hi>Angel</hi> to <hi>Adam,</hi> and direct him to kill a beast (over which God had given him Dominion) and to cover his naked<g ref="char:EOLhyphen"/>ness, with the spoils of his <hi>Skin.</hi> This Act of God, in thus relieving man, who was ignorant how to relieve himself, has no Absurdity but great Bene<g ref="char:EOLhyphen"/>ficence in it.</p>
+            <p>And those who are wisely sensible how much of the Splendour, and Accommodation of Life, is ow<g ref="char:EOLhyphen"/>ing to the <hi>Mechanical Arts,</hi> will sincerely honour them, and bless God for them. Twas this Gra<g ref="char:EOLhyphen"/>titude which made so many <hi>Artists</hi> to be remembred
+<pb n="9" facs="tcp:63581:7"/>in History with applause: and which made some of them to be worshiped as <hi>Gods;</hi>
+               <note place="margin">Pan, Ceres Bac<g ref="char:EOLhyphen"/>chus, Vulcanus, Minerva, Apollo.</note> for they were con<g ref="char:EOLhyphen"/>sidered as Benefactors to mankind. <hi>Plutarch</hi> has one Chapter under this Title, <hi>What things any one found out for the use of man.</hi> And to our purpose,
+<note place="margin">
+                  <hi>Plin. Nat. Hist.</hi> l. 7. c. <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. <hi>Quae quis invenerit iae vita.</hi> l 35. c. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Arnob.</hi> lib. 3., p. 112.</note> He says <hi>Aegyptii Textilia,</hi> That the <hi>Egyptians found out Weaving.</hi> Thus are the Arts which are <hi>Pra<g ref="char:EOLhyphen"/>ctical and not Speculative</hi> of use to men, and there<g ref="char:EOLhyphen"/>fore Creditable among men.</p>
+            <p>There is indeed another sort of Art, which <hi>Philo</hi> calls <hi>Speculative and Practical,</hi> and that is <hi>Mora<g ref="char:EOLhyphen"/>lity,</hi> or the <hi>Art</hi> of Living well and Happily, <hi>viz.</hi> Such a Government of our Actions as is agreeable to Vertue, and conducing to Happiness. For as <hi>Seneca</hi> says, <hi>Nature is not the cause of Vertue;
+<note place="margin">
+                     <hi>Non enim dat Natura Virtu tem. Ars est bo<g ref="char:EOLhyphen"/>num sieri.</hi> Sen. Ep. 90.</note> but Art is necessary to make us good.</hi> This Art, which the <hi>Pagans</hi> called <hi>Philosophy,</hi> and We call <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> is indeed The <hi>Art of Arts,</hi> and the <hi>Science of Sciences.</hi> Yet the <hi>inferior Arts,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> by which the Life of man is made easie and pleasant, are not to be despised, but honoured.</p>
+            <p>We find in the <hi>H. Scriptures</hi> the <hi>Names</hi> of those who were the Inventors of Tents for Shepherds, of Instruments of Musick, and works in Brass.
+<note place="margin">Gen. 4.20, 21, 22.</note> And so necessary are the several sorts of <hi>Artificers,</hi> that when God describes the <hi>Desolation</hi> of a Country, he threatens to take away from it the Souldier, and the Judge, and the Prophet, and the Statesman, and the <hi>Cunning Artificer,</hi> as without whom, no people could subsist.
+<note place="margin">If. 3.3.</note>
+            </p>
+            <p>Thus we see that if <hi>Wisdom and Ʋsefulness</hi> can make any considerable (and none but such as are wise and useful can be considerable) then, to be an <hi>Artist,</hi> is an honourable character. And we have
+<pb n="10" facs="tcp:63581:8"/>in the <hi>Text,</hi> such a <hi>character</hi> of the <hi>Artist:</hi> and that from his <hi>Wisdom</hi> and <hi>Ʋsefulness;</hi> The <hi>cun<g ref="char:EOLhyphen"/>ning workman who doth any work, and who deviseth cunning work,</hi> for the Benefit of mankind, is <hi>Ho<g ref="char:EOLhyphen"/>nourable.</hi>
+            </p>
+            <p>II. The <hi>Text</hi> speaks of the <hi>Original</hi> of <hi>Art,</hi> and that is <hi>Divine.</hi> For the Wisdom of Artists is from <hi>God:</hi>
+               <note place="margin">V. 31.</note> tis God who <hi>hath filled them with Wisdom of heart to work all manner of work.</hi> Such Artists are <hi>filled with the Spirit of God in all Wisdom, and Ʋn<g ref="char:EOLhyphen"/>derstanding, and knowledge.</hi> There are the Sanctify<g ref="char:EOLhyphen"/>ing, and the <hi>Common</hi> gifts of the Spirit of God: and those common gifts extend to all that Wisdom, by which one man is benefited by another, or by himself. Mankind had been in great Want and Di<g ref="char:EOLhyphen"/>stress, if <hi>God</hi> had not endowed them with Wisdom for <hi>Mechanical</hi> Arts: and by those Arts, God hath <hi>relieved us at extremity.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> These Inventions are Di<g ref="char:EOLhyphen"/>vine in their Original, and advantageous to men. The Arts are from <hi>God,</hi> and the Artist are <hi>taught of God.</hi>
+            </p>
+            <p>We are not to <hi>Arrogate</hi> to our selves the being Authors of our Accommodations, any more, then the being Authors of our Lives: but we must ac<g ref="char:EOLhyphen"/>knowledge, we have received all from the bounty of <hi>God.</hi> We ascribe all <hi>Spiritual good</hi> that is found in us, or done by us, unto God: and we must al<g ref="char:EOLhyphen"/>so ascribe all <hi>Secular good,</hi> that is enjoy'd by us, or done by us, unto God. In doing thus, we are warranted, and to do thus we are obliged by God himself. For <hi>The Lord spake unto Moses saying, I have filled him with the Spirit of God, in Wisdom, and in understanding and knowleage, and in all manner of workmanship,
+<note place="margin">Ex. 31.1, 2.</note> to devise cuning work, and to work.</hi>
+            </p>
+            <pb n="11" facs="tcp:63581:8"/>
+            <p> The Heathen <hi>Poets</hi> likewise had such a notion, That <hi>Arts were Divine:</hi> and we have the contest between <hi>Pallas</hi> and <hi>Arachne</hi> in <hi>Weaving;</hi>
+               <note place="margin">
+                  <hi>Tela jugo juncta est stamen secernit arundo; Inseritur medium radiis subtegmen acutis Quod digiti expediunt, atque inter stamina ductum Percusso feriunt insecti pectine dentes.</hi> Ovid. Met. l. 6. f. 1.</note> which I would not advise any One to translate who does not understand the Art as well as the Language. The <hi>Goddess</hi> adviseth the <hi>Artist</hi> not to contend with her.</p>
+            <p>
+               <hi>—Tibi fama petatur Inter mortales faciendae maxima Telae, Cede Deae—</hi>
+            </p>
+            <p>He that deserves the greatest <hi>Honour</hi> among men, must give all Glory unto <hi>God:</hi> for the Wisdom of man comes from God, and is inferiour to his. Those who get themselves honour by their <hi>Art</hi> in Sub<g ref="char:EOLhyphen"/>ordination to God, have their Honour with his Blessing: but those who <hi>Emulate</hi> God, or <hi>Forget</hi> him, are like to come to <hi>Shame,</hi> which is the Mo<g ref="char:EOLhyphen"/>ral of <hi>Arachne's</hi> fate.</p>
+            <p>As <hi>Art</hi> is Beneficial, so tis Divine: and that man who helpeth another, is as a God to him. <hi>'Tis Godlike for Mortal men to succour one another:
+<note place="margin">
+                     <p>
+                        <hi>Deus est mortali juvare mortalem, &amp; haex adaeternam gloriam via. Hic est vetustissimus referendi benè merentibus gratiam mos, ut tales Numinibus ascribantur.</hi> Plin. Nat. Hist. l. 2. c. 7.</p>
+                     <p>
+                        <hi>Quicquid enim magnam utilitatem generi afferret humano, id non sine divinà bonitate erga homines fieri arbitrabantur.</hi> Tull. <hi>de</hi> N. D. l. 2.</p>
+                  </note> and it is the way unto Glory to be a Be<g ref="char:EOLhyphen"/>nefactor. This was the most an<g ref="char:EOLhyphen"/>cient manner of rendring ac<g ref="char:EOLhyphen"/>knowledgments to those who had deserved well, to place them a<g ref="char:EOLhyphen"/>mong the Gods.</hi> The <hi>Apotheosis</hi> of Benefactors arose from the <hi>Gratitude</hi> of Beneficiaries: and Goodness was, from the beginning counted Divinity. <hi>Hosiod</hi> and <hi>Homer</hi> say, That <hi>God is the giver of all good.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Hesiod. Theog.</hi> v. 46. <hi>Hom. Odyss.</hi>
+               </note> And S<seg rend="sup">t</seg>
+               <hi>James</hi> says, <hi>Every good gift, and every per<g ref="char:EOLhyphen"/>fect gift is from above, and cometh down from the Father of Lights.</hi>
+            </p>
+            <pb n="12" facs="tcp:63581:9"/>
+            <p> Thus we see (1) The <hi>Character</hi> of an <hi>Artist,</hi> which the <hi>Text</hi> gives, and that Character is <hi>Honou<g ref="char:EOLhyphen"/>rable;</hi> for it is made up of <hi>Wisdom</hi> and <hi>Ʋseful<g ref="char:EOLhyphen"/>ness.</hi> And (2) The <hi>Original</hi> of <hi>Art</hi> which the <hi>Text</hi> informs us of, and that Original is <hi>Divine;</hi> it is from the <hi>Spirit of God.</hi> And in the account I have given of these two, I have Explained the <hi>Doctrine</hi> which was this, <hi>That the Invention and Skill of the Artist, by which he is beneficial to Man<g ref="char:EOLhyphen"/>kind are from the most high God.</hi>
+            </p>
+            <p>The <hi>Application</hi> follows, and from what I have said, we may inferr</p>
+            <p n="1">1. That <hi>God provides</hi> abundantly <hi>for men:</hi> which manifests the <hi>Goodness of God</hi> to us, and calls for the Duty of <hi>Gratitude</hi> to Him, who hath provided so many accommodations of <hi>Nature</hi> and <hi>Art,</hi> for us. We have <hi>Provisions</hi> for Food, Raiment, and Harbour, and Defence, and Society: and in every one of these, we have what is for Necessity, Con<g ref="char:EOLhyphen"/>venience, Decency, and Pleasure. There is also great <hi>Variety</hi> and <hi>Abundance</hi> of every one of these; so that we can, not only gratifie, but satiate the desires of Fancy it self. If we take a view of our Possessions and Enjoyments, We shall find ourselves placed in the midst of an <hi>Abundance</hi> of all good things, that we could either need or desire. The Abundance of <hi>Nature,</hi> is varied and multiplied and made commodious by <hi>Art:</hi> and the <hi>Skill</hi> of the Ar<g ref="char:EOLhyphen"/>tist, as well as the Materials for his Work, is from God.</p>
+            <p>When therefore, we enjoy and please ourselves with these sensible accommodations, we should look beyond what is sensible; and <hi>own God</hi> as the Au<g ref="char:EOLhyphen"/>thor of all good Natural and Artificial. For so God
+<pb n="13" facs="tcp:63581:9"/>really is; and that Wisdom and Bounty from which the whole World receiveth all, do oblige us to a grateful, and cheerful <hi>trust</hi> in God.</p>
+            <p>We are conscious of our <hi>Needs</hi> and of our <hi>De<g ref="char:EOLhyphen"/>pendences,</hi> and we find that we must trust to some<g ref="char:EOLhyphen"/>thing <hi>without</hi> ourselves, for our Happiness, and for our Subsistence. Let us learn from all the gifts of <hi>God,</hi> upon whom we are to <hi>repose</hi> ourselves: and consi<g ref="char:EOLhyphen"/>der, that as Affiance in God, is necessary for those who <hi>abound,</hi> so it is sufficient for those who <hi>want.</hi> Though we <hi>depend</hi> one upon another, and are <hi>Obnoxious</hi> one to another, yet we must remember that God orders the <hi>events</hi> of things, and <hi>hearts</hi> of men; so that no Fraud or Violence of enemies can <hi>harm</hi> us be<g ref="char:EOLhyphen"/>yond God's permission, and that no Wisdom or Charity of Friends can be <hi>useful</hi> to us, without his Concurrence.</p>
+            <p>Therefore, we are to consider the <hi>hand of God,</hi> in all that we Enjoy, or suffer, Hope or Fear from Men, or from the World as from ourselves; and so to use the gifts, as to confide in the Power of God. <hi>Charge them that are rich in this world</hi> (saith the Apostle) <hi>that they be not high minded, nor trust in uncertain riches, but in the Living God, who giveth us richly all things to enjoy.</hi>
+               <note place="margin">1 Tim. 6.17.</note>
+            </p>
+            <p n="2">2. God provides for men <hi>by men:</hi> and our mu<g ref="char:EOLhyphen"/>tual Usefulness to, and need of one another,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Homo. homini Deus. Eras. adag.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Marc. Anton.</hi> l. 8. §. 50.</note> obliges us to universal <hi>charity.</hi> We are by nature <hi>Socia<g ref="char:EOLhyphen"/>ble,</hi> and love to converse one with another; and tis necessary that those whom we do converse with, we should have a <hi>Love</hi> to, and delight in. <hi>Anger</hi> and <hi>Hatred</hi> imply an estrangement from those whom we consider as filled with those Passions: and from
+<pb n="14" facs="tcp:63581:10"/>those whom we look upon as deserving that <hi>Ha<g ref="char:EOLhyphen"/>tred</hi> and <hi>Anger,</hi> which we ourselves are filled with. We are by the force of those Passions, alienated and separated from, opposite and Enemies unto o<g ref="char:EOLhyphen"/>thers: and nothing can be more contrary to that So<g ref="char:EOLhyphen"/>ciety and <hi>Fellowship,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Arist Rh.</hi> l. 2. c. 4.</note> which is natural, pleasant, and necessary to Men.</p>
+            <p>But God hath taught us by the Original, Na<g ref="char:EOLhyphen"/>ture, and necessities of men, to <hi>love</hi> one another: since no man can provide what is delightful or ne<g ref="char:EOLhyphen"/>cessary to himself, <hi>without</hi> the help of <hi>Others.</hi> There are many <hi>Arts,</hi> and more <hi>Artists</hi> that are necessary for the accommodation of every one: and if any one of these <hi>Arts</hi> were lost, we should <hi>want</hi> it ex<g ref="char:EOLhyphen"/>treamly, for our Subsistence and welfare.</p>
+            <p>Those Employments which are of <hi>least Esteem,</hi> are often <hi>most necessary:</hi> and the greatest men cannot live without the meanest. <hi>The King himself is served by the field,</hi>
+               <note place="margin">Eccl. 5.9.</note> and He that sets upon the Throne could not <hi>eat bread,</hi> if it were not for the mean<g ref="char:EOLhyphen"/>est Servant that <hi>grindeth at the Mill.</hi>
+               <note place="margin">Ex. 11.5.</note> So that if we did <hi>rightly consider</hi> the Nature of man, and the Nature of things, that Consideration would induce us to the religious duties of <hi>Devotion</hi> to <hi>God,</hi> and <hi>Charity</hi> to men.</p>
+            <p>
+               <hi>All men</hi> have the same Original, and the same Necessities: and They are like members of the <hi>same body,</hi> where <hi>the eye cannot say to the ear I have no need of thee,
+<note place="margin">1. Cor. 12.22.</note> nor again the head to the feet, I have no need of you.</hi> No sort of men are either useless or <hi>contemptible:</hi> but we ought every man to consi<g ref="char:EOLhyphen"/>der, that we absolutely need, and are bound in justice to respect One another:
+<note place="margin">1 Pet. 2.17.</note>
+               <hi>Honour all men.</hi> Tis contrary to Reason and Religion, for one sort of
+<pb n="15" facs="tcp:63581:10"/>men to <hi>despise</hi> another: for,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri<g ref="char:EOLhyphen"/>st. Rh.</hi> l 1. c. 5. Eccl. 10.19.</note> every man who doth the duty of his <hi>Honest Calling,</hi> is a <hi>Benefactor</hi> to mankind. Though it be true that <hi>Money answe<g ref="char:EOLhyphen"/>reth all things,</hi> yet all the money in the World could not help us to one <hi>morsel of bread,</hi> without the <hi>Art</hi> and <hi>Labour</hi> of the <hi>Plowman.</hi> There is no Natural, or Artificial good, that we need and use, but before it be fit for use, there are <hi>Multi<g ref="char:EOLhyphen"/>tudes</hi> of <hi>Artists,</hi> and Labourers that are necessary to <hi>prepare</hi> it for us. And besides that what we use, has in the <hi>Substance</hi> of it passed through many hands before it can be used, every <hi>Instrument</hi> that any Artist useth, supposeth the Art and Labour of ma<g ref="char:EOLhyphen"/>ny Others to provide it. This every man can apply to his own <hi>Trade;</hi> and Consider we thus, how <hi>ma<g ref="char:EOLhyphen"/>ny</hi> men every one is beholding to for what he needeth.</p>
+            <p>This consideration should <hi>unite</hi> our hearts, as God hath united our interests: for tis both ungrateful and impolitick to <hi>despise</hi> those upon whom we depend. Although therefore in the <hi>Politick</hi> Body of Man<g ref="char:EOLhyphen"/>kind, as well as in the <hi>Natural</hi> body of Man, One <hi>Member</hi> is <hi>strong,</hi> and another <hi>feeble,</hi> one is <hi>less Honourable,</hi> and another is <hi>more Honourable,</hi>
+               <note place="margin">1 Cor. 12.20, &amp;c. Eph. 4.25.</note> yet all are necessary, and all make but <hi>one body.</hi> If the <hi>Hands</hi> should refuse to labour for the <hi>Belly,</hi> or the <hi>Head</hi> scorn to take care of the <hi>Feet,</hi> the <hi>whole</hi> body must perish. There is no man, but what is <hi>our own flesh,</hi>
+               <note place="margin">If. 58.6.</note> and both our Necessities and our Con<g ref="char:EOLhyphen"/>sciences bind us to <hi>Love our Neighbour, as we love ourselves.</hi> Let us therefore abandon all ignorant,
+<note place="margin">Matt. 22.39.</note> pernicious, and ungodly <hi>Animosities</hi> and <hi>Contempts,</hi> and consider, That we Love <hi>ourselves</hi> when we Love <hi>Others,</hi> and that we cannot Love ourselves, if we do not Love them.</p>
+            <p n="3">
+               <pb n="16" facs="tcp:63581:11"/> 3. <hi>God</hi> provides <hi>for us, while we</hi> by our Cal<g ref="char:EOLhyphen"/>lings, serve <hi>mankind.</hi> At the same time, and by the same Acts, we do good to <hi>Others,</hi> and to <hi>Our<g ref="char:EOLhyphen"/>selves.</hi> While men work in their several <hi>Trades,</hi> They do provide for their <hi>Temporal Welfare,</hi> and may promote their <hi>Eternal Happiness.</hi> 1. While men work in their Trades, they <hi>provide</hi> for their <hi>Temporal welfare.</hi> By their Arts and Labours they are profitable to Others, but no less profitable to themselves. By a man's own Skill and Diligence, He provideth (for Himself and his Family) the Be<g ref="char:EOLhyphen"/>nefit of all Sorts of other men's Arts, and La<g ref="char:EOLhyphen"/>bours.</p>
+            <p>Yea a man may (by Gods Blessing upon his In<g ref="char:EOLhyphen"/>dustry) <hi>advance</hi> Himself, and change his condition to what the world accounts greater. <hi>Seest thou a man diligent in his business? he shall stand before Kings,
+<note place="margin">Prov. 22.29.</note> he shall not stand before mean men. The di<g ref="char:EOLhyphen"/>ligent hand maketh rich,</hi> and the Abundance of Riches is a step to Honour;
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Arist. Rh.</hi> l. 2. c. 18.</note> and there is no evil in this: but tis odious to hate, and tis infamous, to <hi>despise</hi> any man, for his want of Riches or Honour. Thus as all men understand the Worth of Earthly good things, so 'tis an Advantage and Encourage<g ref="char:EOLhyphen"/>ment, that They may <hi>raise</hi> themselves, as well as accommodate Others, by their Employments.</p>
+            <p>And if any one desires to raise himself by his Employment, let him consider what he must do in order to that end.</p>
+            <p n="1">(1.) There must be <hi>good Skill</hi> that a man may understand his business.</p>
+            <p n="2">(2.) There must be <hi>great Diligence,</hi> that a man may improve his time.</p>
+            <p n="3">
+               <pb n="17" facs="tcp:63581:11"/> (3.) There must be <hi>strict Honesty,</hi> that a man may assure those he dealeth with.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>A<g ref="char:EOLhyphen"/>rist. Rh.</hi> l. 1. c. 6.</note>
+            </p>
+            <p n="4">(4.) There must be <hi>decent Thrift,</hi> that a man may keep what he hath gotten.</p>
+            <p n="5">(5.) There must be <hi>discreet Caution,</hi> that a man be not undone by the knavery of others.</p>
+            <p>These <hi>Five Rules</hi> are necessary to be observed by Him who would grow rich, or get a Livelyhood: and not one of them must be neglected by him who would obtain Wealth, or avoid Beggery.</p>
+            <p>Thus a man, in his proper <hi>Vocation</hi> ministreth to the Providence of God, and to the necessities of mankind; and while he does so, may serve <hi>Him<g ref="char:EOLhyphen"/>self:</hi> and in some Station or other, a man must minister to the Providence of God, and to the ne<g ref="char:EOLhyphen"/>cessities of men, otherwise he will undo himself.</p>
+            <p n="2">2. A man may perform the <hi>duties</hi> of his <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> and promote the Salvation of his <hi>Soul,</hi> at the same time, and by the same Acts, that he labours in his Calling.</p>
+            <p>For instance, (1) He that worketh under the influence of these considerations; That his Skill is the gift of God: That his Labour is a charity to men: that by Honesty in his Calling, he shall provide for himself: He that worketh with this per<g ref="char:EOLhyphen"/>swasion, is filled with devout Gratitude, and ardent Love, and stedfast Trust, and cheerful Resignation to God. <hi>These Affections</hi> when expressed in Prayer and Praises, are Religious <hi>Worship:</hi> and when ex<g ref="char:EOLhyphen"/>pressed in Life and Action, are Religious <hi>Obedi<g ref="char:EOLhyphen"/>ence.</hi>
+            </p>
+            <pb n="18" facs="tcp:63581:12"/>
+            <p> Again (2) a man who worketh and tradeth with a sense of his Dependence on <hi>Others,</hi> and his ob<g ref="char:EOLhyphen"/>ligations to them: who is Thankful to those whom God in his providence, hath made instruments of good to him, and who is glad to serve those by his Art and Labour, to whom he can be useful: and who out of Conscience, doth ever speak what is True; and act what is Honest; and remembreth that Justice is Religion; He liveth righteously in his <hi>Work,</hi> and Commerce and Conversation; and <hi>Imi<g ref="char:EOLhyphen"/>tateth God</hi> in Truth,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Arjst. Rh.</hi> l. 2. <hi>c.</hi> 9.</note> Justice and Charity, which are Divine Vertues and Graces.</p>
+            <p>Again (3) He who is contented with his <hi>Estate</hi> and <hi>Calling;</hi> who trusteth to God's Blessing upon his honest Diligence, for his Subsistence; and who doth so trust to this as not to find his heart in<g ref="char:EOLhyphen"/>clined to any dishonest act to relieve or advance himself: He who mixeth the <hi>thoughts</hi> of <hi>God</hi> and Divine things, with his Labours and Employment: He who maintaineth such Discourse, with the Com<g ref="char:EOLhyphen"/>panions of his Labour, as may promote vertuous and heavenly Affections in himself, and them: He who is not through Covetousness or Distrust hin<g ref="char:EOLhyphen"/>dered from spending convenient portions of his Time in the Worship of God, and in the Study of Re<g ref="char:EOLhyphen"/>ligion; He doth Cultivate his Soul in the perfor<g ref="char:EOLhyphen"/>mance of his Business: and <hi>in that Calling wherein he is called,
+<note place="margin">1 Cor. 70.24.</note> abideth with God.</hi>
+            </p>
+            <p>I know so much of the <hi>Nature of man,</hi> that this may be done; for it is not possible that any work or business should constantly take up <hi>all</hi> a man's <hi>thoughts:</hi> and I appeal unto the Conscience of all
+<pb n="19" facs="tcp:63581:12"/>that hear me whether they do not in their business, find <hi>Leisure</hi> to entertain themselves, by recollecting the Stories of what they have heard or seen among men: in projecting Schemes of diversion or Enter<g ref="char:EOLhyphen"/>prizes which they delight in, or hope advantage from. And so much as there is of Truth in this, that a man's ordinary <hi>work</hi> doth not engross all his thoughts, so much Demonstration there is, That a man, <hi>at his work,</hi> may recollect what he hath read or heard of <hi>God,</hi> and of Eternity, and of Religion; and may examine and judge what his own State towards God is: that he may <hi>contemplate</hi> the Wis<g ref="char:EOLhyphen"/>dom, Goodness, and Power of God, manifested in the works of Creation, Providence, and Govern<g ref="char:EOLhyphen"/>ment of the World; in the Conversion, Sanctifi<g ref="char:EOLhyphen"/>cation, and Salvation of men. The <hi>History</hi> of the <hi>Son of God</hi> (in which, the whole doctrine of our Religion and Happiness is comprised) may as ea<g ref="char:EOLhyphen"/>sily be called to mind <hi>at work,</hi> as any other Hi<g ref="char:EOLhyphen"/>story may; and a man may as possibly, without neg<g ref="char:EOLhyphen"/>lecting his business improve his Soul, by medita<g ref="char:EOLhyphen"/>ting on the Divine Life of <hi>Jesus Christ,</hi> as deprave his Soul by thinking upon any vicious practices of his Neighbour.</p>
+            <p>Nay I <hi>add</hi> that a man may take many, and con<g ref="char:EOLhyphen"/>siderable <hi>hints</hi> from his Labours and his Dealings to advance the Spiritual temper and disposition of his mind. For the <hi>Materials</hi> upon which any man employeth his Art and Labour are the Creatures of <hi>God:</hi> The State to which those materials are brought by his Art and Labour is useful to <hi>men:</hi> The success of his diligence is profitable; or the unsuccessfulness of it is hurtful to <hi>Himself.</hi> And from every one of these a man may raise such <hi>me<g ref="char:EOLhyphen"/>ditations,</hi>
+               <pb n="20" facs="tcp:63581:13"/>as may dispose him to Religious duty. For, from hence, he may learn <hi>Thankfulness</hi> to God, <hi>Love</hi> to men, and <hi>Care</hi> for himself. If He la<g ref="char:EOLhyphen"/>bours from one end of the <hi>week</hi> to the other, for the advantages of a Mortal Life, and the supply of bodily necessities; how much rather (will he think) ought a man to labour for the Happiness of Eternal Life, and the Salvation of his Immortal <hi>Soul.</hi>
+            </p>
+            <p>
+               <hi>Again,</hi> those whom a man <hi>dealeth</hi> with are ei<g ref="char:EOLhyphen"/>ther <hi>friendly and honest</hi> to him, and then he may justly <hi>bless God,</hi> that there are such men to deal with: Or they are <hi>unfriendly</hi> and <hi>dishonest,</hi> and then he may <hi>bless God,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Arist.</hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that he is not undone by them.</p>
+            <p>
+               <hi>Again,</hi> either he <hi>himself</hi> dealeth friendly and ho<g ref="char:EOLhyphen"/>nestly with Others; and then he may <hi>bless God,</hi> that he is overcome by no <hi>Temptation</hi> to the con<g ref="char:EOLhyphen"/>trary: Or he dealeth unfriendly and dishonestly with others, and then he had need <hi>Repent</hi> lest the <hi>Curse</hi> of God should enter into his house,
+<note place="margin">Zech. 5.3, 4. Jer. 17.11.</note> and consume his Substance.</p>
+            <p>Thus there can <hi>no</hi> possible <hi>Case</hi> be put, but that a man may in his Work and Labour, in his Deal<g ref="char:EOLhyphen"/>ing and Converse, find <hi>occasion</hi> for his duty; and so at the same time, <hi>work</hi> in his worldly <hi>Calling,</hi> and work out his <hi>Salvation</hi> too.</p>
+            <p>To <hi>Conclude:</hi> Let no man pretend the Hindrance of his duty by the multitude of his <hi>business;</hi> or that his necessary Employment in this world, is the reason why he neglecteth his interest in the other. For no <hi>honest Calling</hi> is inconsistent with Religious duty; but on the contrary, God who giveth <hi>Wis<g ref="char:EOLhyphen"/>dom</hi>
+               <pb n="21" facs="tcp:63581:13"/>to the <hi>Artist</hi> for his business, doth also give <hi>Opportunities</hi> for his duty in that business. God hath been good to us, in this very point, Let us be good to our selves; and remember, that the Apostle joyneth together these two, <hi>Not sloathful in business; Fervent in Spirit, serving the Lord.</hi>
+               <note place="margin">Rom. 12.11.</note>
+            </p>
+            <p>
+               <hi>Grant we beseech thee, most Wise, Gracious, and Mighty God, That those to whom thou hast given the spirit of Wisdom and Ʋnderstanding, by their Worldly Callings, Arts, and Labours, to be useful unto mankind; may also have their honest Diligence and Industry prospered by thy Blessing, for the Com<g ref="char:EOLhyphen"/>fort of themselves, and their Families; and That living religiously in their several Vocations and Em<g ref="char:EOLhyphen"/>ployments, They may have the Rewards of their Piety follow them into the other world, when they shall rest from their Labours in this, for Jesus Christ his sake our Blessed Lord and Saviour.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
